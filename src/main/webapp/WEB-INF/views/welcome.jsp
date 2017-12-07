@@ -130,10 +130,10 @@
                 <div class="card">
                     <div class="front">
                         <div class="cover">
-                          <img class="" src="<c:url value="/resources/img/rotating_card_thumb.png"/>"/> 
+                          <img class="" src="<c:url value="/resources/img/cool.png"/>"/> 
                         </div>
                         <div class="user">
-                             <img class="img-circle" src="<c:url value="/resources/img/rotating_card_profile2.png"/>"/> 
+                             <img class="img-circle" src="<c:url value="/resources/img/aver.png"/>"/> 
                         </div>
                         <div class="content">
                             <div class="main">
